@@ -1,17 +1,5 @@
-# hello-world
+# 계산적 사고법 과제 코드
 
-## C언어
+## N-Queen
 
-- 목록
-- 입니다
-
-**굵게**
-
-``` C
-#include <stdio.h>
-
-int main(){
-}
-```
-
-안녕 중간에 `hi` 이렇게도
+### 1 naive해법
