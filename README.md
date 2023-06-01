@@ -3,3 +3,7 @@
 ## N-Queen
 
 ### 1 naive해법
+
+### 2 Backtracking and 1D array
+
+### 3 Bitwise operator and symmetric
