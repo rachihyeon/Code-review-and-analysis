@@ -63,7 +63,7 @@ int main(void)
 
 	cout << res << '\n';
 
-	//cout << "10È¸ ½ÃÇà Æò±Õ ½Ã°£ : " << ElapsedTime << "\n\n";
-	printf("10È¸ ½ÃÇà Æò±Õ ½Ã°£ : %.10lf\n\n", ElapsedTime);
+	//cout << "10íšŒ ì‹œí–‰ í‰ê·  ì‹œê°„ : " << ElapsedTime << "\n\n";
+	printf("10íšŒ ì‹œí–‰ í‰ê·  ì‹œê°„ : %.10lf\n\n", ElapsedTime);
 	return 0;
 }
