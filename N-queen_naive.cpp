@@ -90,8 +90,8 @@ int main(void)
 
 	cout << result << '\n';
 	
-	//cout << "10ȸ ���� ��� �ð� : " << ElapsedTime << "\n\n";
-	printf("10ȸ ���� ��� �ð� : %.10lf\n\n", ElapsedTime);
+	//cout << "10회 시행 평균 시간 : " << ElapsedTime << "\n\n";
+	printf("10회 시행 평균 시간 : %.10lf\n\n", ElapsedTime);
 	return 0;
 
 }
