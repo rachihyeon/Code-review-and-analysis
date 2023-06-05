@@ -47,6 +47,6 @@ int main(void)
 	}
 	cout << result << '\n';
 	//cout << total_ElapsedTime / repeat_num << "\n\n";
-	printf("10ȸ ���� ��� �ð� : %.10lf\n\n", ElapsedTime);
+	printf("10회 占쏙옙占쏙옙 占쏙옙占� 占시곤옙 : %.10lf\n\n", ElapsedTime);
 	return 0;
 }
