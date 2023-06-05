@@ -46,7 +46,7 @@ int main(void)
 		total_ElapsedTime += ElapsedTime;
 	}
 	cout << result << '\n';
-	//cout << total_ElapsedTime / repeat_num << "\n\n";
-	printf("10회 占쏙옙占쏙옙 占쏙옙占� 占시곤옙 : %.10lf\n\n", ElapsedTime);
+	//cout << "10회 시행 평균 시간 : " << ElapsedTime << "\n\n";
+	printf("10회 시행 평균 시간 : %.10lf\n\n", ElapsedTime);
 	return 0;
 }
