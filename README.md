@@ -9,3 +9,5 @@
 ### 3 Bitwise operator and symmetric
 
 ### 4 실행시간 데이터 시각화
+
+### 5 Z3 solver를 이용한 해법
